@@ -1,18 +1,25 @@
 body h1 {
-  text-align: center; }
+    text-align: center;
+}
+
 body h3 {
-  text-align: center; }
-body row div, body row .col,
-body row #mypiccontainer {
-  width: 24em; }
+    text-align: center;
+}
+
+
 body h6,
 body #responsive {
-  text-align: center;
-  margin-bottom: -1em; }
+    text-align: center;
+    margin-bottom: -1em;
+}
+
 body div h6,
 body .col h6 {
-  text-align: left; }
+    text-align: left;
+}
+
 body #contact {
-  text-align: left; }
+    text-align: left;
+}
 
 /*# sourceMappingURL=main.css.map */

@@ -5,6 +5,12 @@ body {
     h3 {
         text-align: center;
     }
+    row {
+        div,.col,
+        #mypiccontainer {
+            width: 24em;
+        }
+    }
     h6,
     #responsive {
         text-align: center;
